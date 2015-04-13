@@ -11,12 +11,15 @@
     "build": "ember build",
     "test": "ember try:testall"
   },
-  "repository": "",
+  "repository": "https://github.com/mirego/ember-cli-encore",
   "engines": {
     "node": ">= 0.10.0"
   },
   "author": "Charles Demers <cdemers@mirego.com>",
   "license": "BSD 3-Clause",
+  "bugs": {
+    "url": "https://github.com/mirego/ember-cli-encore/issues"
+  },
   "devDependencies": {
     "broccoli-asset-rev": "2.0.2",
     "ember-cli": "0.2.3",
