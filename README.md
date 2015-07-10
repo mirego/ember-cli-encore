@@ -2,6 +2,10 @@
 
 `ember-cli-encore` is an adapter and a serializer to use with the [Encore](https://github.com/mirego/encore) gem.
 
+## Deprecation notice
+
+:warning: This repository is now deprecated since the `encore` gem is also deprecated.
+
 ## Usage
 
 ```js
